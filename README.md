@@ -3,7 +3,7 @@
 PhD-level background in biophysics, now focused on data engineering and AI tooling.
 My work has been about building and operating complex systems end-to-end —
 from design and prototyping to stable, reproducible operation.
-I try to bring the same mindset to data: pipelines that actually run, systems that are debuggable.
+I bring the same mindset to data: pipelines that actually run, systems that are debuggable.
 
 ## What I'm working on
 
