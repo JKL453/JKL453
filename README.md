@@ -8,15 +8,13 @@ I bring the same mindset to data: pipelines that actually run, systems that are 
 ## What I'm working on
 
 ### Hörspiel Explorer
-[]()
-Full data pipeline and search platform for German audio drama content.
+[Full data pipeline and search platform for German audio drama content.](https://github.com/JKL453/hoerspiel-explorer)
 Scraping, cleaning, and structuring 24,000+ episodes into a normalized PostgreSQL schema —
 vector search and a RAG chatbot interface in progress.
 `Python` `BeautifulSoup` `Flask` `Supabase` `pgvector`
 
 ### Photon Data Hub
-[Repo](https://github.com/JKL453/photon-data-hub)
-A full-stack data platform for managing and analyzing time-correlated single photon counting (TCSPC) datasets.
+[A full-stack data platform for managing and analyzing time-correlated single photon counting (TCSPC) datasets.](https://github.com/JKL453/photon-data-hub)
 It combines data ingestion, metadata enrichment, preview generation, and interactive analysis 
 (e.g., fluorescence traces and autocorrelation functions) in a unified workflow.
 The project is built with a Python-based backend and a Vue.js + PrimeVue frontend, 
